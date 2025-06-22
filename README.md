@@ -4,10 +4,10 @@
 This is complete End to End PySpark project 
 
 what we have done in this project and learn from it :-
- Pyspark Project Introduction
- PySpark Project Business Requirements
- databricks project
- dataset load
- PySpark dataframe
- Project Implementation and KPI Development
- dashboard visualization
+1.Pyspark Project Introduction
+2.PySpark Project Business Requirements
+3.databricks project
+4.dataset load
+5. PySpark dataframe
+6.Project Implementation and KPI Development
+7.dashboard visualization
