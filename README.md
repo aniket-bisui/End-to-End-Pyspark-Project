@@ -3,7 +3,7 @@
 
 This is complete End to End PySpark project 
 
-what we have done in this project and learn from it :-
+what i have done in this project and learn from it :-
 1.Pyspark Project Introduction
 2.PySpark Project Business Requirements
 3.databricks project
